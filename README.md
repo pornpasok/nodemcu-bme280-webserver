@@ -5,14 +5,14 @@ Dashboard
 - Humidity 
 - Pressure 
 
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.png)
 
 Control Outputs
 
-![Control Output](control_output.png)
+![Control Output](images/control_output.png)
 
 Dashboard + Control Outputs
 
-![Dashboard + Control Output](dashboard_control_output.png)
+![Dashboard + Control Output](images/dashboard_control_output.png)
 
 Source: https://randomnerdtutorials.com/esp8266-nodemcu-web-server-sent-events-sse/
