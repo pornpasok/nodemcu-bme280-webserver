@@ -13,6 +13,6 @@ Control Outputs
 
 Dashboard + Control Outputs
 
-![Dashboard + Control Output](dashboard_control_output.png.png)
+![Dashboard + Control Output](dashboard_control_output.png)
 
 Source: https://randomnerdtutorials.com/esp8266-nodemcu-web-server-sent-events-sse/
