@@ -7,4 +7,8 @@ Dashboard
 
 ![Dashboard](dashboard.png)
 
+Control Outputs
+
+![Control Output](control_output.png)
+
 Source: https://randomnerdtutorials.com/esp8266-nodemcu-web-server-sent-events-sse/
