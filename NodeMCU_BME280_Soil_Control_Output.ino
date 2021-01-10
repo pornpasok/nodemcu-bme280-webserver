@@ -16,8 +16,8 @@
 #include <Adafruit_Sensor.h>
 
 // Replace with your network credentials
-const char* ssid = "SookYenFarm";
-const char* password = "0863741677";
+const char* ssid = "WiFi-SSID";
+const char* password = "WiFi-PASSWORD";
 
 bool ledState = 0;
 const int ledPin = 2;
